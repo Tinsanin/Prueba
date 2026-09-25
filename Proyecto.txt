@@ -1,2 +1,3 @@
 Versión 1: Creación del proyecto
 Versión 2: Creación del mapa
+Versión 4: Personaje Principal
